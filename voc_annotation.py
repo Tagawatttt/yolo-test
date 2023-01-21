@@ -20,7 +20,7 @@ annotation_mode     = 0
 #   那么就是因为classes没有设定正确
 #   仅在annotation_mode为0和2的时候有效
 #-------------------------------------------------------------------#
-classes_path        = 'model_data/voc_classes.txt'
+classes_path        = 'model_data/taco_classes.txt'
 #--------------------------------------------------------------------------------------------------------------------------------#
 #   trainval_percent用于指定(训练集+验证集)与测试集的比例，默认情况下 (训练集+验证集):测试集 = 9:1
 #   train_percent用于指定(训练集+验证集)中训练集与验证集的比例，默认情况下 训练集:验证集 = 9:1
@@ -34,7 +34,7 @@ train_percent       = 0.9
 #-------------------------------------------------------#
 VOCdevkit_path  = 'VOCdevkit'
 
-VOCdevkit_sets  = [('2007', 'train'), ('2007', 'val')]
+VOCdevkit_sets  = [('TACO', 'train'), ('TACO', 'val')]
 classes, _      = get_classes(classes_path)
 
 #-------------------------------------------------------#
@@ -68,8 +68,10 @@ if __name__ == "__main__":
 
     if annotation_mode == 0 or annotation_mode == 1:
         print("Generate txt in ImageSets.")
-        xmlfilepath     = os.path.join(VOCdevkit_path, 'VOC2007/Annotations')
-        saveBasePath    = os.path.join(VOCdevkit_path, 'VOC2007/ImageSets/Main')
+        # xmlfilepath     = os.path.join(VOCdevkit_path, 'VOC2007/Annotations')
+        # saveBasePath    = os.path.join(VOCdevkit_path, 'VOC2007/ImageSets/Main')
+        xmlfilepath     = os.path.join(VOCdevkit_path, 'VOCTACO/Annotations')
+        saveBasePath    = os.path.join(VOCdevkit_path, 'VOCTACO/ImageSets/Main')
         temp_xml        = os.listdir(xmlfilepath)
         total_xml       = []
         for xml in temp_xml:
@@ -114,7 +116,12 @@ if __name__ == "__main__":
             image_ids = open(os.path.join(VOCdevkit_path, 'VOC%s/ImageSets/Main/%s.txt'%(year, image_set)), encoding='utf-8').read().strip().split()
             list_file = open('%s_%s.txt'%(year, image_set), 'w', encoding='utf-8')
             for image_id in image_ids:
-                list_file.write('%s/VOC%s/JPEGImages/%s.jpg'%(os.path.abspath(VOCdevkit_path), year, image_id))
+                # list_file.write('%s/VOC%s/JPEGImages/%s.jpg'%(os.path.abspath(VOCdevkit_path), year, image_id))
+                in_file = open(os.path.join(VOCdevkit_path, 'VOC%s/Annotations/%s.xml'%(year, image_id)), encoding='utf-8')
+                tree = ET.parse(in_file)
+                root = tree.getroot()
+                image_path = root[1].text[:-4]
+                list_file.write('%s/VOC%s/JPEGImages/%s'%(os.path.abspath(VOCdevkit_path), year, image_path))
 
                 convert_annotation(year, image_id, list_file)
                 list_file.write('\n')

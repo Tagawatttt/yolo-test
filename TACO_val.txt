@@ -1,0 +1,135 @@
+/Users/tagawaryuunosuke/Desktop/yolox-keras/VOCdevkit/VOCTACO/JPEGImages/000054 703,1539,1407,1957,46
+/Users/tagawaryuunosuke/Desktop/yolox-keras/VOCdevkit/VOCTACO/JPEGImages/000063 990,1774,1510,2272,59
+/Users/tagawaryuunosuke/Desktop/yolox-keras/VOCdevkit/VOCTACO/JPEGImages/000050 350,727,2085,2047,13 1509,2222,1689,2338,59 1606,2199,1724,2254,59 2731,2227,2821,2273,59
+/Users/tagawaryuunosuke/Desktop/yolox-keras/VOCdevkit/VOCTACO/JPEGImages/000067 884,1275,1343,1689,4 1032,1593,1126,2288,59 438,2673,531,2977,58 446,3061,607,3263,59 1681,3157,1769,3263,59 479,1473,584,1570,20
+/Users/tagawaryuunosuke/Desktop/yolox-keras/VOCdevkit/VOCTACO/JPEGImages/000045
+/Users/tagawaryuunosuke/Desktop/yolox-keras/VOCdevkit/VOCTACO/JPEGImages/IMG_5058 788,1399,1101,1643,11
+/Users/tagawaryuunosuke/Desktop/yolox-keras/VOCdevkit/VOCTACO/JPEGImages/000094 1252,1183,1488,1422,21
+/Users/tagawaryuunosuke/Desktop/yolox-keras/VOCdevkit/VOCTACO/JPEGImages/000035 191,1298,402,1499,5 1145,350,1199,431,5 1516,345,1618,437,5 1344,499,1516,612,5 1332,560,1435,714,5 897,1984,1565,2325,5 1499,2244,1566,2325,8 1344,689,1372,715,8 1495,582,1518,608,8 1142,270,1190,346,59
+/Users/tagawaryuunosuke/Desktop/yolox-keras/VOCdevkit/VOCTACO/JPEGImages/000003 715,1094,948,1330,21
+/Users/tagawaryuunosuke/Desktop/yolox-keras/VOCdevkit/VOCTACO/JPEGImages/000008 827,365,988,478,9 1358,1142,1740,1737,11 1124,947,1191,998,20 596,2760,670,2826,9 1064,587,1117,655,9 664,1927,765,1975,59 1581,2486,1773,2627,59
+/Users/tagawaryuunosuke/Desktop/yolox-keras/VOCdevkit/VOCTACO/JPEGImages/000093 1136,1773,1225,1858,7
+/Users/tagawaryuunosuke/Desktop/yolox-keras/VOCdevkit/VOCTACO/JPEGImages/000065 1081,1440,1767,2414,42
+/Users/tagawaryuunosuke/Desktop/yolox-keras/VOCdevkit/VOCTACO/JPEGImages/000025 1293,1678,1473,1787,22
+/Users/tagawaryuunosuke/Desktop/yolox-keras/VOCdevkit/VOCTACO/JPEGImages/000075 914,1659,961,1720,4 942,1679,982,1721,4 2,3465,72,3495,20
+/Users/tagawaryuunosuke/Desktop/yolox-keras/VOCdevkit/VOCTACO/JPEGImages/000065
+/Users/tagawaryuunosuke/Desktop/yolox-keras/VOCdevkit/VOCTACO/JPEGImages/000086 1330,721,1679,887,11 1353,758,1378,824,50
+/Users/tagawaryuunosuke/Desktop/yolox-keras/VOCdevkit/VOCTACO/JPEGImages/000045 625,1323,849,1920,4 684,1849,766,1919,7
+/Users/tagawaryuunosuke/Desktop/yolox-keras/VOCdevkit/VOCTACO/JPEGImages/000002 1963,356,3835,2495,32
+/Users/tagawaryuunosuke/Desktop/yolox-keras/VOCdevkit/VOCTACO/JPEGImages/000072 1644,339,1762,411,58
+/Users/tagawaryuunosuke/Desktop/yolox-keras/VOCdevkit/VOCTACO/JPEGImages/000058
+/Users/tagawaryuunosuke/Desktop/yolox-keras/VOCdevkit/VOCTACO/JPEGImages/000072 1040,1288,2120,2787,22
+/Users/tagawaryuunosuke/Desktop/yolox-keras/VOCdevkit/VOCTACO/JPEGImages/000102 1468,1440,1542,1560,10 1396,1846,1596,1952,4 1090,1424,1309,1622,37 1039,2821,1133,2944,30
+/Users/tagawaryuunosuke/Desktop/yolox-keras/VOCdevkit/VOCTACO/JPEGImages/000087 1201,1261,1651,1715,45
+/Users/tagawaryuunosuke/Desktop/yolox-keras/VOCdevkit/VOCTACO/JPEGImages/000030 1020,1370,1378,1769,46 2004,2245,2206,2590,30 709,1005,756,1038,20
+/Users/tagawaryuunosuke/Desktop/yolox-keras/VOCdevkit/VOCTACO/JPEGImages/000063 832,1073,1831,1996,36 993,1267,1229,1471,30
+/Users/tagawaryuunosuke/Desktop/yolox-keras/VOCdevkit/VOCTACO/JPEGImages/000040 1283,1591,1433,1983,55 477,2921,568,3036,20
+/Users/tagawaryuunosuke/Desktop/yolox-keras/VOCdevkit/VOCTACO/JPEGImages/IMG_5036 926,1470,1036,1541,31 1236,887,1431,944,4
+/Users/tagawaryuunosuke/Desktop/yolox-keras/VOCdevkit/VOCTACO/JPEGImages/000057 74,2634,137,2708,58
+/Users/tagawaryuunosuke/Desktop/yolox-keras/VOCdevkit/VOCTACO/JPEGImages/000127 1651,1466,1805,1582,57 1614,1410,1643,1670,58 1596,467,1710,683,58
+/Users/tagawaryuunosuke/Desktop/yolox-keras/VOCdevkit/VOCTACO/JPEGImages/000073 1042,1328,1305,1500,14 1435,1899,1478,1939,7 1101,2041,1150,2062,20 1657,2437,1696,2456,20 1243,255,1268,276,20
+/Users/tagawaryuunosuke/Desktop/yolox-keras/VOCdevkit/VOCTACO/JPEGImages/000023 1081,2060,1244,2201,19 1161,996,1290,1072,19 1101,2177,1138,2220,20
+/Users/tagawaryuunosuke/Desktop/yolox-keras/VOCdevkit/VOCTACO/JPEGImages/000048 716,1962,1811,2626,11 1701,2132,1809,2288,50
+/Users/tagawaryuunosuke/Desktop/yolox-keras/VOCdevkit/VOCTACO/JPEGImages/000060 973,2322,2189,3598,38 1753,1038,1863,1106,58
+/Users/tagawaryuunosuke/Desktop/yolox-keras/VOCdevkit/VOCTACO/JPEGImages/000074 918,1345,1415,1800,57 2035,1253,3043,1626,57 966,1738,1220,1879,58
+/Users/tagawaryuunosuke/Desktop/yolox-keras/VOCdevkit/VOCTACO/JPEGImages/000026 1548,2100,1668,2217,7 1525,2027,1647,2066,20
+/Users/tagawaryuunosuke/Desktop/yolox-keras/VOCdevkit/VOCTACO/JPEGImages/000053
+/Users/tagawaryuunosuke/Desktop/yolox-keras/VOCdevkit/VOCTACO/JPEGImages/000072 1071,1285,1513,1601,4 2034,2807,2370,3088,6 449,351,875,726,59 1017,3037,1046,3110,20 459,3091,548,3144,20
+/Users/tagawaryuunosuke/Desktop/yolox-keras/VOCdevkit/VOCTACO/JPEGImages/IMG_4919 1118,2164,1419,2296,11 1119,2225,1158,2253,50 1158,1791,1305,1924,59
+/Users/tagawaryuunosuke/Desktop/yolox-keras/VOCdevkit/VOCTACO/JPEGImages/000002 1411,1276,1646,1516,11 878,328,932,390,59
+/Users/tagawaryuunosuke/Desktop/yolox-keras/VOCdevkit/VOCTACO/JPEGImages/000069 745,535,3466,3117,59
+/Users/tagawaryuunosuke/Desktop/yolox-keras/VOCdevkit/VOCTACO/JPEGImages/000009 2170,2599,2651,3356,58 482,1385,1722,2626,59
+/Users/tagawaryuunosuke/Desktop/yolox-keras/VOCdevkit/VOCTACO/JPEGImages/000003 2648,1114,3279,1770,20
+/Users/tagawaryuunosuke/Desktop/yolox-keras/VOCdevkit/VOCTACO/JPEGImages/000018
+/Users/tagawaryuunosuke/Desktop/yolox-keras/VOCdevkit/VOCTACO/JPEGImages/000019 1501,795,1725,1663,52
+/Users/tagawaryuunosuke/Desktop/yolox-keras/VOCdevkit/VOCTACO/JPEGImages/000033 705,1693,890,1857,11 1308,2137,1355,2181,59 33,2711,64,2758,20 197,2477,214,2536,20 275,2345,332,2408,20 501,2121,536,2142,20 669,2171,704,2224,20 957,1717,990,1726,20 189,725,218,754,20
+/Users/tagawaryuunosuke/Desktop/yolox-keras/VOCdevkit/VOCTACO/JPEGImages/000062 871,674,1490,1059,11 1448,830,2050,1490,11 658,1037,1492,1397,4 1473,1385,1581,1428,50 1,2136,440,2880,42 1964,406,2044,452,42 2017,1784,2133,1870,0 1066,2682,1123,2798,0 1114,412,1218,591,30 658,1218,737,1377,7
+/Users/tagawaryuunosuke/Desktop/yolox-keras/VOCdevkit/VOCTACO/JPEGImages/000080 174,377,242,401,20 733,2425,990,2727,25
+/Users/tagawaryuunosuke/Desktop/yolox-keras/VOCdevkit/VOCTACO/JPEGImages/000010
+/Users/tagawaryuunosuke/Desktop/yolox-keras/VOCdevkit/VOCTACO/JPEGImages/000036 1340,988,1416,1069,11 2199,993,2253,1049,11 1243,1023,1336,1115,4 1364,1079,1429,1159,4 1177,1171,1381,1289,4
+/Users/tagawaryuunosuke/Desktop/yolox-keras/VOCdevkit/VOCTACO/JPEGImages/000070 1468,1497,2162,2492,50
+/Users/tagawaryuunosuke/Desktop/yolox-keras/VOCdevkit/VOCTACO/JPEGImages/000072 560,955,1048,1210,4 150,1137,482,1523,4
+/Users/tagawaryuunosuke/Desktop/yolox-keras/VOCdevkit/VOCTACO/JPEGImages/000000 1431,1110,1500,1174,7
+/Users/tagawaryuunosuke/Desktop/yolox-keras/VOCdevkit/VOCTACO/JPEGImages/000060 986,207,3158,3055,49
+/Users/tagawaryuunosuke/Desktop/yolox-keras/VOCdevkit/VOCTACO/JPEGImages/000048 931,1689,1645,3241,14
+/Users/tagawaryuunosuke/Desktop/yolox-keras/VOCdevkit/VOCTACO/JPEGImages/000021
+/Users/tagawaryuunosuke/Desktop/yolox-keras/VOCdevkit/VOCTACO/JPEGImages/000099
+/Users/tagawaryuunosuke/Desktop/yolox-keras/VOCdevkit/VOCTACO/JPEGImages/000015
+/Users/tagawaryuunosuke/Desktop/yolox-keras/VOCdevkit/VOCTACO/JPEGImages/000009 2258,790,2389,901,37 3709,1000,3995,1258,59
+/Users/tagawaryuunosuke/Desktop/yolox-keras/VOCdevkit/VOCTACO/JPEGImages/IMG_4941 1064,1456,1269,1569,4 3023,1674,3169,1725,5 1604,1729,1760,1794,4 1469,1450,1546,1521,58 2744,1243,2807,1300,58 2206,1237,2232,1265,59 962,146,1016,176,59 1753,208,1801,229,59 1521,1964,1540,1990,59 1626,1864,1653,1880,59 5,1934,84,1988,59 543,1895,846,2054,30 411,1931,620,2063,30 1789,71,1893,155,30 1279,1266,1303,1279,50 131,1801,308,1911,42 1,1945,157,2086,34 1585,1748,1674,1953,55 668,1807,983,2029,53 1975,1915,1986,1958,20
+/Users/tagawaryuunosuke/Desktop/yolox-keras/VOCdevkit/VOCTACO/JPEGImages/000011 828,91,984,516,5 838,353,1080,554,41 1389,937,1539,1013,8 1590,1072,1760,1163,8 1904,739,2196,1264,24 1938,501,2169,753,24 2332,488,2548,1021,5 2361,427,2554,716,24 2586,155,2797,876,5 2692,568,2952,1187,5 1737,499,1966,823,31 2934,554,3098,665,31 2935,694,3193,794,31
+/Users/tagawaryuunosuke/Desktop/yolox-keras/VOCdevkit/VOCTACO/JPEGImages/000020 2046,1522,2380,1698,57
+/Users/tagawaryuunosuke/Desktop/yolox-keras/VOCdevkit/VOCTACO/JPEGImages/000031 1259,1530,1354,1641,58 1306,1459,1382,1505,59 1204,1498,1249,1521,59 1361,1545,1396,1572,59 1270,1475,1307,1508,59 1423,1565,1469,1608,59 1213,1438,1291,1496,59
+/Users/tagawaryuunosuke/Desktop/yolox-keras/VOCdevkit/VOCTACO/JPEGImages/000057 1181,2050,1948,2835,7
+/Users/tagawaryuunosuke/Desktop/yolox-keras/VOCdevkit/VOCTACO/JPEGImages/000044 2406,972,2631,1148,21 1596,1362,1757,1537,19 1390,1554,1769,1754,42 1419,1701,1443,1739,20 621,1511,784,1655,59 1868,81,2004,181,6 1260,117,1291,142,59
+/Users/tagawaryuunosuke/Desktop/yolox-keras/VOCdevkit/VOCTACO/JPEGImages/000050 496,852,592,883,14
+/Users/tagawaryuunosuke/Desktop/yolox-keras/VOCdevkit/VOCTACO/JPEGImages/000088 1634,1056,2357,2251,27 1834,1056,2352,1420,29 830,3,2025,1269,31
+/Users/tagawaryuunosuke/Desktop/yolox-keras/VOCdevkit/VOCTACO/JPEGImages/000029 1513,1268,1966,1485,4 1617,1475,2121,1683,4 1513,1298,1547,1383,7 1965,1182,2182,1400,41 2102,1543,2220,1666,59 1379,1068,1613,1302,59
+/Users/tagawaryuunosuke/Desktop/yolox-keras/VOCdevkit/VOCTACO/JPEGImages/000016 956,287,2804,2744,31
+/Users/tagawaryuunosuke/Desktop/yolox-keras/VOCdevkit/VOCTACO/JPEGImages/000064
+/Users/tagawaryuunosuke/Desktop/yolox-keras/VOCdevkit/VOCTACO/JPEGImages/000006 913,1236,1318,1879,37 1145,1473,1479,1863,37 1511,731,1634,907,58 1758,2180,1819,2320,59
+/Users/tagawaryuunosuke/Desktop/yolox-keras/VOCdevkit/VOCTACO/JPEGImages/000074 943,821,1199,977,42
+/Users/tagawaryuunosuke/Desktop/yolox-keras/VOCdevkit/VOCTACO/JPEGImages/000035 807,1934,992,2027,11 817,1970,855,1998,50 1008,1675,1104,1767,31 1109,1868,1171,1899,20 869,1931,913,1962,20 899,1934,927,1960,20 945,1928,977,1939,20 657,2131,697,2163,20 695,2015,714,2054,20 643,2034,709,2089,30 485,2026,553,2075,30 454,2192,479,2235,20 527,2175,563,2216,20 237,2429,273,2475,20 107,2548,131,2590,20 291,2246,346,2278,20
+/Users/tagawaryuunosuke/Desktop/yolox-keras/VOCdevkit/VOCTACO/JPEGImages/000033 2477,613,2747,929,42 1165,3273,1580,3887,14 1337,3050,1462,3340,55 1168,1896,1419,2178,6 1250,1898,1422,2052,7 1552,2053,1777,2299,58
+/Users/tagawaryuunosuke/Desktop/yolox-keras/VOCdevkit/VOCTACO/JPEGImages/000051 1752,917,3274,2400,42
+/Users/tagawaryuunosuke/Desktop/yolox-keras/VOCdevkit/VOCTACO/JPEGImages/000013 972,704,1213,965,11 1037,1106,1432,1414,41 1307,1482,1841,1946,41
+/Users/tagawaryuunosuke/Desktop/yolox-keras/VOCdevkit/VOCTACO/JPEGImages/000044 1818,1299,2102,1378,4 1818,1323,1837,1358,7 485,1255,502,1274,20
+/Users/tagawaryuunosuke/Desktop/yolox-keras/VOCdevkit/VOCTACO/JPEGImages/000052 1005,2122,1614,2152,55 817,2376,1027,2501,30 965,2079,1004,2188,20 1007,2061,1122,2096,20 1151,2017,1222,2102,20 1317,2249,1394,2326,20 121,3037,218,3114,20 177,769,240,870,20
+/Users/tagawaryuunosuke/Desktop/yolox-keras/VOCdevkit/VOCTACO/JPEGImages/000027 913,1953,1281,2243,58
+/Users/tagawaryuunosuke/Desktop/yolox-keras/VOCdevkit/VOCTACO/JPEGImages/000068 572,1216,2259,2753,57
+/Users/tagawaryuunosuke/Desktop/yolox-keras/VOCdevkit/VOCTACO/JPEGImages/000051 600,2069,703,2174,55 633,2056,730,2153,55 575,2143,1148,2679,37 1092,1907,1652,2749,37 489,1680,1819,2484,17 1028,2100,1157,2282,14 1611,2469,1726,2604,21 841,1493,880,1504,20
+/Users/tagawaryuunosuke/Desktop/yolox-keras/VOCdevkit/VOCTACO/JPEGImages/IMG_4969 738,1617,977,1687,4 1415,1198,1555,1272,4 1294,1029,1339,1067,4 771,1268,814,1359,5 788,1493,941,1568,14 51,1527,110,1563,59 971,1512,1014,1543,59 1123,1434,1153,1456,59 2163,636,2215,657,59 897,878,919,890,59 1521,1488,1589,1547,21 1083,1433,1126,1464,42 1423,899,1445,933,11
+/Users/tagawaryuunosuke/Desktop/yolox-keras/VOCdevkit/VOCTACO/JPEGImages/IMG_4928 1492,1710,1779,1914,49 2233,1112,2292,1156,59
+/Users/tagawaryuunosuke/Desktop/yolox-keras/VOCdevkit/VOCTACO/JPEGImages/000006 1266,1388,1789,1995,41
+/Users/tagawaryuunosuke/Desktop/yolox-keras/VOCdevkit/VOCTACO/JPEGImages/000078 313,791,2638,3094,19
+/Users/tagawaryuunosuke/Desktop/yolox-keras/VOCdevkit/VOCTACO/JPEGImages/000088 1015,1997,1210,2353,4 966,2563,1179,2949,11
+/Users/tagawaryuunosuke/Desktop/yolox-keras/VOCdevkit/VOCTACO/JPEGImages/000055 1264,2073,1451,2278,28
+/Users/tagawaryuunosuke/Desktop/yolox-keras/VOCdevkit/VOCTACO/JPEGImages/000039 1217,1504,1346,1612,58 1682,3145,1770,3206,20 1126,2067,1187,2143,20 1818,36,1864,108,20
+/Users/tagawaryuunosuke/Desktop/yolox-keras/VOCdevkit/VOCTACO/JPEGImages/000048 1234,1520,1452,1798,11 1238,1750,1275,1791,50 1840,1537,1906,1743,59 191,2807,234,2876,20 347,1129,370,1170,20 387,1355,414,1388,20 351,495,388,504,20 417,535,432,564,20 377,607,402,620,20 445,709,462,742,20 287,981,320,1006,20 627,697,674,718,20 601,463,638,484,20 773,401,802,420,20 911,317,954,326,20 801,255,826,264,20 879,151,910,168,20 913,283,948,302,20 879,199,912,220,20 917,155,944,170,20 1193,473,1216,506,20 1143,399,1176,420,20 1149,333,1180,352,20 1323,431,1350,458,20 1473,627,1500,656,20 1591,1795,1634,1854,20 1897,1647,1928,1690,20 1391,1823,1438,1860,20 1679,1693,1710,1732,20 1679,1869,1706,1892,20 1397,397,1406,424,20 1381,439,1410,458,20 1189,415,1210,438,20 67,835,104,850,20 361,1379,394,1428,20 257,657,274,676,20 471,849,496,862,20
+/Users/tagawaryuunosuke/Desktop/yolox-keras/VOCdevkit/VOCTACO/JPEGImages/000017 714,531,904,903,5
+/Users/tagawaryuunosuke/Desktop/yolox-keras/VOCdevkit/VOCTACO/JPEGImages/000059 1260,1655,1755,1918,58
+/Users/tagawaryuunosuke/Desktop/yolox-keras/VOCdevkit/VOCTACO/JPEGImages/000026 1869,1815,2337,2054,25
+/Users/tagawaryuunosuke/Desktop/yolox-keras/VOCdevkit/VOCTACO/JPEGImages/000094 802,948,2035,3636,4 597,1647,1965,2650,32
+/Users/tagawaryuunosuke/Desktop/yolox-keras/VOCdevkit/VOCTACO/JPEGImages/IMG_4967 1527,1598,1826,1782,55 1695,1675,1823,1734,58 962,1658,1092,1849,22
+/Users/tagawaryuunosuke/Desktop/yolox-keras/VOCdevkit/VOCTACO/JPEGImages/000082 894,832,2083,3356,11
+/Users/tagawaryuunosuke/Desktop/yolox-keras/VOCdevkit/VOCTACO/JPEGImages/000096 740,801,3391,2564,58
+/Users/tagawaryuunosuke/Desktop/yolox-keras/VOCdevkit/VOCTACO/JPEGImages/000111 805,1988,1114,2198,5 997,2178,1041,2216,7 1483,2075,1549,2142,57
+/Users/tagawaryuunosuke/Desktop/yolox-keras/VOCdevkit/VOCTACO/JPEGImages/000068 899,1778,1668,1974,55 171,1509,256,1662,20 131,1349,208,1446,20
+/Users/tagawaryuunosuke/Desktop/yolox-keras/VOCdevkit/VOCTACO/JPEGImages/000024 1295,1618,1533,1673,53
+/Users/tagawaryuunosuke/Desktop/yolox-keras/VOCdevkit/VOCTACO/JPEGImages/000079 927,1662,1468,2297,42
+/Users/tagawaryuunosuke/Desktop/yolox-keras/VOCdevkit/VOCTACO/JPEGImages/000081 838,894,989,1067,42
+/Users/tagawaryuunosuke/Desktop/yolox-keras/VOCdevkit/VOCTACO/JPEGImages/000026 1251,1300,1685,1749,15 1690,778,2138,1216,15 263,1,1915,1084,38
+/Users/tagawaryuunosuke/Desktop/yolox-keras/VOCdevkit/VOCTACO/JPEGImages/000030 1809,1808,1994,1928,59 1196,2701,1663,3014,42 1196,2468,1394,2631,42 2150,4365,2216,4508,42 933,2480,1014,2535,42
+/Users/tagawaryuunosuke/Desktop/yolox-keras/VOCdevkit/VOCTACO/JPEGImages/000108 1335,1065,1554,1217,22 1462,1042,1622,1129,59 653,1539,698,1574,20
+/Users/tagawaryuunosuke/Desktop/yolox-keras/VOCdevkit/VOCTACO/JPEGImages/000007
+/Users/tagawaryuunosuke/Desktop/yolox-keras/VOCdevkit/VOCTACO/JPEGImages/000041
+/Users/tagawaryuunosuke/Desktop/yolox-keras/VOCdevkit/VOCTACO/JPEGImages/000049 1215,1936,1770,2498,59
+/Users/tagawaryuunosuke/Desktop/yolox-keras/VOCdevkit/VOCTACO/JPEGImages/000035 793,1845,1906,2361,42
+/Users/tagawaryuunosuke/Desktop/yolox-keras/VOCdevkit/VOCTACO/JPEGImages/000031 374,1048,1812,2436,21 864,1046,1809,1967,28
+/Users/tagawaryuunosuke/Desktop/yolox-keras/VOCdevkit/VOCTACO/JPEGImages/000003 1792,1290,2118,1547,42
+/Users/tagawaryuunosuke/Desktop/yolox-keras/VOCdevkit/VOCTACO/JPEGImages/000076 1601,925,2069,1507,4 1183,1307,1276,1387,8 283,1057,360,1076,20
+/Users/tagawaryuunosuke/Desktop/yolox-keras/VOCdevkit/VOCTACO/JPEGImages/000075 1105,882,1335,1168,11 1487,867,1548,916,20 1015,733,1030,776,20 917,815,972,866,20 2255,563,2288,596,20 2275,703,2288,728,20
+/Users/tagawaryuunosuke/Desktop/yolox-keras/VOCdevkit/VOCTACO/JPEGImages/IMG_5040 571,1227,2034,2508,41
+/Users/tagawaryuunosuke/Desktop/yolox-keras/VOCdevkit/VOCTACO/JPEGImages/000053
+/Users/tagawaryuunosuke/Desktop/yolox-keras/VOCdevkit/VOCTACO/JPEGImages/000096 1085,1601,1317,1790,22 1356,1664,1420,1689,20 1926,3926,1990,3990,9 2232,2439,2289,2473,20 378,1259,551,1367,59 860,1605,942,1670,59
+/Users/tagawaryuunosuke/Desktop/yolox-keras/VOCdevkit/VOCTACO/JPEGImages/IMG_4891 1130,1447,1181,1501,59 655,3221,706,3264,20
+/Users/tagawaryuunosuke/Desktop/yolox-keras/VOCdevkit/VOCTACO/JPEGImages/000017 1207,1591,1439,2274,4 1280,2233,1380,2275,7 461,1734,684,2054,55 434,679,489,707,20
+/Users/tagawaryuunosuke/Desktop/yolox-keras/VOCdevkit/VOCTACO/JPEGImages/000007 1181,2192,1684,2997,57
+/Users/tagawaryuunosuke/Desktop/yolox-keras/VOCdevkit/VOCTACO/JPEGImages/000077 1729,1669,1902,1810,5 3290,1223,3317,1246,59
+/Users/tagawaryuunosuke/Desktop/yolox-keras/VOCdevkit/VOCTACO/JPEGImages/000068 576,1656,902,2014,13 777,1226,1067,1480,13 1505,1716,1723,1907,0
+/Users/tagawaryuunosuke/Desktop/yolox-keras/VOCdevkit/VOCTACO/JPEGImages/000056
+/Users/tagawaryuunosuke/Desktop/yolox-keras/VOCdevkit/VOCTACO/JPEGImages/000024 266,46,297,82,50 1201,890,1222,918,50 743,956,767,990,50 608,986,641,1005,50 1082,1904,1109,1930,50 837,1921,922,1984,58 655,476,682,527,59 140,278,243,344,58 618,690,650,723,20 1308,1084,1339,1113,20 8,1404,47,1428,20 1196,1976,1219,1993,20 1407,1945,1441,1962,20 797,1799,837,1832,20
+/Users/tagawaryuunosuke/Desktop/yolox-keras/VOCdevkit/VOCTACO/JPEGImages/IMG_5052 1339,1121,2034,2485,16
+/Users/tagawaryuunosuke/Desktop/yolox-keras/VOCdevkit/VOCTACO/JPEGImages/IMG_5045 1168,1397,2322,2533,19 785,1937,1236,2395,42
+/Users/tagawaryuunosuke/Desktop/yolox-keras/VOCdevkit/VOCTACO/JPEGImages/000091 1627,1384,2047,1622,42
+/Users/tagawaryuunosuke/Desktop/yolox-keras/VOCdevkit/VOCTACO/JPEGImages/000076 858,1156,1004,1540,5 669,1257,780,1514,31
+/Users/tagawaryuunosuke/Desktop/yolox-keras/VOCdevkit/VOCTACO/JPEGImages/000089 744,1522,789,1551,6 961,3352,1048,3435,59
+/Users/tagawaryuunosuke/Desktop/yolox-keras/VOCdevkit/VOCTACO/JPEGImages/000104
+/Users/tagawaryuunosuke/Desktop/yolox-keras/VOCdevkit/VOCTACO/JPEGImages/IMG_5055 1135,1781,1466,2088,11 1214,1147,1523,1566,11 1370,1799,1414,1870,50
+/Users/tagawaryuunosuke/Desktop/yolox-keras/VOCdevkit/VOCTACO/JPEGImages/000113 1538,1555,1718,1705,4 1539,1671,1568,1699,7
+/Users/tagawaryuunosuke/Desktop/yolox-keras/VOCdevkit/VOCTACO/JPEGImages/000107 1901,1174,2167,1293,59
+/Users/tagawaryuunosuke/Desktop/yolox-keras/VOCdevkit/VOCTACO/JPEGImages/000025 1814,943,4646,2581,53
+/Users/tagawaryuunosuke/Desktop/yolox-keras/VOCdevkit/VOCTACO/JPEGImages/000069 1000,587,1607,900,4 2477,2008,2748,2335,4
+/Users/tagawaryuunosuke/Desktop/yolox-keras/VOCdevkit/VOCTACO/JPEGImages/000011 523,1169,762,1290,11
+/Users/tagawaryuunosuke/Desktop/yolox-keras/VOCdevkit/VOCTACO/JPEGImages/000021 853,639,1539,929,5 257,706,934,1122,42
+/Users/tagawaryuunosuke/Desktop/yolox-keras/VOCdevkit/VOCTACO/JPEGImages/000068 983,2032,1757,2586,42
